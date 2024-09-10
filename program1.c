@@ -1,6 +1,8 @@
 #include<stdlib.h>
 #include<stdio.h>
 
+//this program does averages
+
 int avg(int a, int b){
 	int result;
 	result = (a+b)/2;
