@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+//this program does the sum of two values
+
 int sum(int a, int b){
 	int result;
 	result = a + b;
