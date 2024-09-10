@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-//this program just sorts an array using qsort
+//this program sorts an array using qsort
 
 int cmp(const void *p1, const void *p2){
 	
